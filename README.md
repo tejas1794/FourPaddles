@@ -1,8 +1,7 @@
 # FourPaddles
-4 player ping pong game written in p5.js.
 
-Creating by learning from [The Coding Train Coding Challenge 67](https://youtu.be/IIrC5Qcb2G4). 
-
+## 4 player ping pong game written in p5.js. [Try it out](https://tejas1794.github.io/FourPaddles/).
+Created by learning from [The Coding Train Coding Challenge 67](https://youtu.be/IIrC5Qcb2G4). 
 See their implementation in their [GitHub repo](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges).
 
 ## Objective:
